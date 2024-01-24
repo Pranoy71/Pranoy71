@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DBMS and SQL**
 
-- 👯 I’m looking to collaborate on **any project**
+- 👯 I’m looking to collaborate on **any project on Python or Machine Laerning**
 
 - 📫 How to reach me **bishalchdebnath@gmail.com**
 
