@@ -31,9 +31,9 @@ Hello there! I'm Bishal, a passionate space science lover and a dedicated Comput
 
 # 📊 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranoy71&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranoy71&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranoy71&theme=aura)
 
 [![Bishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranoy71&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
