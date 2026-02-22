@@ -64,7 +64,7 @@ A **62.3M-parameter** decoder-only language model built entirely from scratch â€
 
 | Detail | Value |
 |:---|:---|
-| Parameters | 62,334,784 |
+| Parameters | 62M |
 | Training Tokens | 1.37B (WikiText-103 + SWIFT-700) |
 | Validation Perplexity | 37.89 |
 | Token Accuracy | 39.78% |
