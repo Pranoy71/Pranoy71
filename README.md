@@ -29,14 +29,28 @@
 
 ## About Me
 
-I'm a final-year **B.Tech Computer Science** student at Narula Institute of Technology, Kolkata — and a research engineer who builds things properly: from scratch, with intent, and with rigorous attention to the internals.
+I'm a **B.Tech Computer Science** graduate from Narula Institute of Technology, Kolkata — and a research engineer who builds things properly: from scratch, with intent, and with rigorous attention to the internals.
 
 My work spans **large language models**, **NLP**, **computer vision**, and **applied deep learning**. I've trained transformer models from the ground up, built custom emotion-detection systems, and contributed to ISRO-funded research analysing Chandrayaan-2 mass spectrometry data. I care about understanding *why* models work — not just whether they do.
 
-- 🔬 Research Intern — **ISRO-funded project** · Chandrayaan-2 / CHACE-2 lunar exosphere analysis
+- 🛰️ **Research Intern @ ISRO** · Chandrayaan-2 lunar mission · 95% model accuracy · 2TB+ data
 - 🏛️ Attendee — **National Space Science Symposium 2024** ([NSSS 2024](https://nsss2024.unigoa.ac.in/)), Goa
 - 🏆 **Best Presenter Award** — [IARJSET International Conference](https://iarjset.com/wp-content/uploads/2022/11/IARJSET-ICELLP-7.pdf)
-- 🎓 B.Tech CST · Narula Institute of Technology · 2021 – 2025
+- 🎓 B.Tech CST · Narula Institute of Technology · Graduated 2025 · CGPA: 8.04/10
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## Experience
+
+**Research Intern · Indian Space Research Organisation (ISRO)** `Mar 2023 – Mar 2024`
+
+Worked on the Chandrayaan-2 lunar mission data pipeline, building and deploying deep learning models to extract chemical composition signatures from CHACE-2 mass spectrometry data of the lunar exosphere.
+
+- Engineered **3 deep learning models** achieving **95% accuracy** on mission-critical classification tasks, processing **2+ TB** of raw exosphere data using TensorFlow and PyTorch
+- Built an automated data validation system in Python that cut manual verification time by **60%**, improving data quality assurance across **10,000+ lunar observations**
+- Worked alongside senior scientists in an Agile team to deliver production-grade scientific software components
+
+`Python` `TensorFlow` `PyTorch` `Scikit-learn` `Data Analysis`
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -151,29 +165,18 @@ current_focus = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pranoy71&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranoy71&theme=tokyonight" width="32%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranoy71&theme=tokyonight" width="32%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranoy71&theme=tokyonight" width="32%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranoy71&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=FB923C&currStreakLabel=38BDF8" width="48%"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=Pranoy71&show_icons=true&theme=tokyonight&hide_border=true&icon_color=38BDF8&title_color=38BDF8&include_all_commits=true&count_private=true" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranoy71&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" width="38%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranoy71&theme=tokyonight&utcOffset=5.5" width="32%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranoy71&theme=tokyonight" width="65%"/>
 
 <br/><br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranoy71&bg_color=1a1b27&color=38bdf8&line=38bdf8&point=fb923c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranoy71/Pranoy71/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranoy71/Pranoy71/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Pranoy71/Pranoy71/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
 
 </div>
 
